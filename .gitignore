@@ -1,0 +1,16 @@
+# PocketBase
+pb_data/
+pb_data_test/
+pb_hooks/
+pb_public/
+
+# Built binaries
+/pocketbase
+/pocketbase.exe
+
+# Environment
+.env
+.env.*
+
+# System files
+.DS_Store
